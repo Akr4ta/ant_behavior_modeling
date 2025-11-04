@@ -1,4 +1,4 @@
-# Agent-based modeling ants
+# Agent-based modeling of ant behavior
  Modeling ant social behavior
 
 # Based on the Agents.jl library
